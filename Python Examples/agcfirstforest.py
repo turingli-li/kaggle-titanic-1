@@ -1,5 +1,6 @@
 #RandomForest, non parametric modeling
 #agconti
+#这一部分主要进行：字符型数据转换成数字型；缺失数据的处理；随机森林模型的使用
 
 import numpy as np
 import csv as csv
